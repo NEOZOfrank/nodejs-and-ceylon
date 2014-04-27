@@ -1,0 +1,15 @@
+{
+  "name": "ceylon-test",
+  "version": "0.0.1",
+  "description": "ceylon test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "ceylon"
+  ],
+  "author": "frank hinkel",
+  "license": "WTFPL"
+}
